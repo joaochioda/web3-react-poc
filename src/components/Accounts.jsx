@@ -1,4 +1,3 @@
-import { BigNumber } from '@ethersproject/bignumber'
 import { formatEther } from '@ethersproject/units'
 import { useEffect, useState } from 'react'
 
